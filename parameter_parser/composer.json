@@ -1,0 +1,9 @@
+{
+	"name": "ronleal0/tools",
+	"description": "For scraping html",
+	"keywords": ["framework", "laravel"],
+	"license": "MIT",
+	"require": {
+		"paquettg/php-html-parser": "dev-master"
+	}
+}
